@@ -1,2 +1,2 @@
 - Parse Google Finance csv
-- Insert the data to Google Sheets
+- Insert the data to Google Sheets using Google Sheets API
